@@ -1,4 +1,4 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 
@@ -14,8 +14,9 @@
   </a>
 </div>
 
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h1 align="center">
   hey there
